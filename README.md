@@ -25,4 +25,4 @@ cd flutterproject/defaultproject
 flutter run
 ```
 
-**NOTE** : Since this is the *initial stage* of the project *without and compilation* to *reduce the size* of the project, it might take *some time* to compile the project
+**NOTE** : Since this is the *initial stage* of the project *without any compilation* to *reduce the size* of the project, it might take *some time* to compile the project
