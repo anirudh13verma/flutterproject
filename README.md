@@ -13,8 +13,16 @@ gh repo clone anirudh13verma/flutterproject
 git clone https://github.com/anirudh13verma/flutterproject.git
 ```
 
-- Go to the root directory of **FLUTTER** Project
+- Go to the **Root Directory** of **FLUTTER** Project
 
 ```
 cd flutterproject/defaultproject
 ```
+
+- **Run** the flutter default project to have a quick peek of the tap game!
+
+```
+flutter run
+```
+
+**NOTE** : Since this is the *initial stage* of the project *without and compilation* to *reduce the size* of the project, it might take *some time* to compile the project
