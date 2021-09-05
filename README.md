@@ -1,6 +1,6 @@
-# The Default Flutter Project
+# The Flutter Project COMBO
 
-This is the default project created by the flutter team which you all can **DOWNLOAD** OR **CLONE** for further working on the project
+This is the demo projects of **flutter** which you all can **DOWNLOAD** OR **CLONE** for testing as well as further working on the project
 
 ### Getting Started
 
