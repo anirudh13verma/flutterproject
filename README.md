@@ -13,4 +13,8 @@ gh repo clone anirudh13verma/flutterproject
 git clone https://github.com/anirudh13verma/flutterproject.git
 ```
 
+- Go to the root directory of **FLUTTER** Project
 
+```
+cd flutterproject/defaultproject
+```
