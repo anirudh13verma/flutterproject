@@ -1,6 +1,6 @@
 # The Flutter Project COMBO
 
-This is the demo projects of **flutter** which you all can **DOWNLOAD** OR **CLONE** for testing as well as further working on the project
+This is the demo project *COMBO* of **flutter** which you all can **DOWNLOAD** OR **CLONE** for testing as well as further working on the project
 
 ### Getting Started
 
